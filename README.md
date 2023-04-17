@@ -9,3 +9,7 @@ for leading the car, 1 back wheel for supporting the veichle.
 
 ## The Arduino type: 
 Arduino nano microcontroller.
+
+## License
+
+This project is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT).
